@@ -1,0 +1,21 @@
+span.select2.select2-container {
+  width: 100% !important;
+}
+.form-horizontal .control-label{
+  text-align: left;
+  padding-top: 7px;
+}
+.select2-container--default .select2-selection--single, .select2-container--default .select2-search--dropdown .select2-search__field{
+  border: 1px solid #ddd !important;
+}
+.table > thead > tr > th {
+    vertical-align: middle;
+    text-align: center;
+}
+.form-group.has-error span.select2-selection.select2-selection--single{
+  border-color: #a94442 !important;
+}
+.form-group .form-entries {
+  margin-bottom: 5px;
+}
+.input-group.date input, .input-group.date span { background-color: white; }
